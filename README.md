@@ -19,3 +19,5 @@ When you click on table view cell. Open pop over view controller with uitablevie
 * push the code on your Github account and make a pull request to YakimbiICT/ios_test
 * **IF YOU CAN'T USE A PUBLIC REPO ON GITHUB, USE BITCUCKET [[ https://bitbucket.org/ ]] AND SET UP A PRIVATE REPO**
 
+## Bonus points
+* Add branches for both ARC and non-ARC implementations.
