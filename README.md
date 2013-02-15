@@ -21,3 +21,4 @@ When you click on table view cell. Open pop over view controller with uitablevie
 
 ## Bonus points
 * Add branches for both ARC and non-ARC implementations.
+* Add unit or/and functional tests
